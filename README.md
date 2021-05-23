@@ -69,8 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-[Netlify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Netlify](https://storefront-samer.netlify.app/)
 
 ![UML](./public/lab36.png)
 
-[PR]()
+[PR](https://github.com/Samer-Alnajjar/storefront/pull/1)
