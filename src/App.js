@@ -6,11 +6,13 @@ import Header from "./component/header";
 import Categories from "./component/categories";
 import Products from "./component/products";
 import Footer from "./component/footer";
+import Cart from './component/cart';
 
 function App() {
   return (
     <Provider store={store}>
       <Header />
+      <Cart/>
       <Categories />
       <Products />
       <Footer />

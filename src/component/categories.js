@@ -6,7 +6,7 @@ import Typography from "@material-ui/core/Typography";
 import "./categories.scss";
 
 function Categories(props) {
-  // console.log(`active`, activeCategory);
+  console.log(`active`, props);
   return (
     <section>
       <h1> Browse Our Categories</h1>
